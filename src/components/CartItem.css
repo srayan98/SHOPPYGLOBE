@@ -1,0 +1,31 @@
+.cart-item 
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.5rem 0;
+    border-bottom: 1px solid #ccc;
+}
+
+.cart-item img 
+{
+    width: 80px;
+    height: 80px;
+    object-fit: contain;
+    border-radius: 6px;
+}
+
+.cart-item button 
+{
+    background-color: #dc3545;
+    color: white;
+    border: none;
+    padding: 0.3rem 0.8rem;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.2s;
+}
+.cart-item button:hover
+{
+    transform: scale(1.1);
+}
