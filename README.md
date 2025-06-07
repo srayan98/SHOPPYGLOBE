@@ -6,3 +6,4 @@ i) You can browse a list of miscellaneous products
 ii) View the individual product details
 iii) Add desired items in the cart
 iv) Remove the unwanted items from that cart
+Link for the Github Repository: https://github.com/srayan98/SHOPPYGLOBE/tree/main
